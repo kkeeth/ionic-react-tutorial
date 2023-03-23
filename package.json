@@ -15,7 +15,7 @@
     "@capacitor/storage": "1.2.5",
     "@ionic/pwa-elements": "3.1.1",
     "@ionic/react": "5.9.4",
-    "@ionic/react-router": "5.9.4",
+    "@ionic/react-router": "6.7.0",
     "@testing-library/jest-dom": "5.16.5",
     "@testing-library/react": "12.1.5",
     "@testing-library/user-event": "13.5.0",
